@@ -1,1 +1,2 @@
 # POSE_ESTIMATOR
+Post_estimator.py is created using open source modules in python called mediapipe and opencv which can be used in any code as methods to find the angle between 3 points in a body of a person. This can be used in wide range of applications to find the posture of people depending on the problem. Here I have used it to find the count of curls done by a person using 3 points in arm(which can be changed respectively).
